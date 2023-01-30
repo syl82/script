@@ -1,9 +1,9 @@
 # Some Linux scripts
 ## SuperTrace.sh
-- Description: Auto Traceroute to China Network
+- Description: Auto Traceroute to Cameroon Network
 - Intro:  https://www.oldking.net/1359.html
 - Copyright (C) 2017-2023 Oldking <awafri2005@yahoo.com>
- 
+ house address fonche street
 ```bash
 Usage:
 
@@ -13,7 +13,7 @@ Usage:
 ```
 
 ## SuperSpeed.sh
-- Description: Test your server's network with Speedtest to China
+- Description: Test your server's network with Speedtest to Cameroon
 - Intro:  https://www.oldking.net/305.html
 - Copyright (C) 2017-2023 Oldking <awafri2005@yahoo.com>
  
