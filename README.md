@@ -2,7 +2,7 @@
 ## SuperTrace.sh
 - Description: Auto Traceroute to China Network
 - Intro:  https://www.oldking.net/1359.html
-- Copyright (C) 2017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 2017-2023 Oldking <awafri2005@yahoo.com>
  
 ```bash
 Usage:
@@ -15,7 +15,7 @@ Usage:
 ## SuperSpeed.sh
 - Description: Test your server's network with Speedtest to China
 - Intro:  https://www.oldking.net/305.html
-- Copyright (C) 2017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 2017-2023 Oldking <awafri2005@yahoo.com>
  
 ```bash
 Usage:
@@ -27,7 +27,7 @@ Usage:
 ## SuperBench.sh
 - Description: Auto test download & I/O speed & network to China script
 - Intro:  https://www.oldking.net/350.html
-- Copyright (C) 20017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 20017-2023 Oldking <awafri2005@yahoo.com>
 
 ```bash
 Usage:
